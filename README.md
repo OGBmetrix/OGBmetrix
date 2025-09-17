@@ -1,29 +1,38 @@
-<!-- Profile Header -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&lines=Hi,+I'm+Ikenna+Anthony+Claret+Ogbonna;Administrative+Specialist;Technical+Support+Expert;Cyber+Security+Analyst;Remote+Support+Expert;Data+Analyst)](https://git.io/typing-svg)
+<!-- Profile Header with animated typing and waving hand emoji -->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Ikenna+Anthony+Claret+Ogbonna;Administrative+Specialist;Technical+Support+Expert;Cyber+Security+Analyst;Remote+Support+Expert;Data+Analyst)](https://git.io/typing-svg)
 
 ---
 
+<!-- Fun animated divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=0:1e1e1e,100:3a3a3a&section=header" />
+</p>
+
 ### 🌟 About Me
-I’m a passionate **Data Analyst, Administrative Specialist, Technical Support and Cyber Security Analyst**,  
+I’m a passionate **Administrative Specialist, Technical Support and Cyber Security Analyst**,  
 with experience in **data analysis, remote support, and virtual assistance**.  
 I love building secure, efficient solutions and collaborating on open-source projects.
 
 ---
 
 ### 🛠️ Tech & Tools
-`Python` • `Pandas` • `NumPy` • `Data Analysis` • `Cyber Security Analysis` • `Cloud Computing`  
-`GitHub Actions` • `REST APIs` • `SQL` • `Bubble.io` 
+`Python` • `Pandas` • `NumPy` • `Data Analysis` • `Cyber Security` • `Cloud Computing`  
+`GitHub Actions` • `REST APIs` • `SQL` • `Bubble.io` • `Responsive Web Apps`
 
 ---
 
 ### 🚀 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OGBmetrix&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OGBmetrix&layout=compact&theme=dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OGBmetrix&show_icons=true&theme=dark" height="180">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OGBmetrix&layout=compact&theme=dark" height="180">
+</p>
 
 ---
 
 ### 🔥 Contribution Streak
-[![GitHub Streak](https://streak-stats.demolab.com?user=OGBmetrix&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=OGBmetrix&theme=dark&date_format=j%20M%5B%20Y%5D" />
+</p>
 
 ---
 
@@ -41,7 +50,16 @@ I love building secure, efficient solutions and collaborating on open-source pro
 ---
 
 ### 🌍 Visitor Map
-![Visitor Map](https://visitcount.itsvg.in/api?id=OGBmetrix&icon=0&color=12)
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=OGBmetrix&icon=5&color=12" />
+</p>
+
+---
+
+### 🎨 Animated Fun Element
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=600&lines=⚡+Lifelong+Learner;🚀+Open+Source+Contributor;💡+Tech+Innovator;🛡️+Cyber+Security+Advocate" />
+</p>
 
 ---
 
@@ -52,3 +70,7 @@ and exploring **AI-driven security solutions**.
 ---
 
 > 💬 *Let's connect and build something amazing together!*
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&height=80&color=0:3a3a3a,100:1e1e1e&section=footer" />
+</p>
