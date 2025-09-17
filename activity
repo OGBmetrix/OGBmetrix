@@ -1,0 +1,12 @@
+name: Update README with recent activity
+on:
+  schedule:
+    - cron: '0 * * * *'  # runs every hour
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: jamesgeorge007/github-activity-readme@v0.4.1
+        with:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
