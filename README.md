@@ -4,15 +4,15 @@
 ---
 
 ### 🌟 About Me
-I’m a passionate **Administrative Specialist, Technical Support and Cyber Security Analyst**,  
+I’m a passionate **Data Analyst, Administrative Specialist, Technical Support and Cyber Security Analyst**,  
 with experience in **data analysis, remote support, and virtual assistance**.  
 I love building secure, efficient solutions and collaborating on open-source projects.
 
 ---
 
 ### 🛠️ Tech & Tools
-`Python` • `Pandas` • `NumPy` • `Data Analysis` • `Cyber Security` • `Cloud Computing`  
-`GitHub Actions` • `REST APIs` • `SQL` • `Bubble.io` • `Responsive Web Apps`
+`Python` • `Pandas` • `NumPy` • `Data Analysis` • `Cyber Security Analysis` • `Cloud Computing`  
+`GitHub Actions` • `REST APIs` • `SQL` • `Bubble.io` 
 
 ---
 
