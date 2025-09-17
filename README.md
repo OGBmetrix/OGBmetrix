@@ -56,9 +56,9 @@ I love building secure, efficient solutions and collaborating on open-source pro
 
 ---
 
-### Tech Career 
+### 💼 Tech Career
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=600&lines=⚡+Lifelong+Learner;🚀+Open+Source+Contributor;💡+Tech+Innovator;🛡️+Cyber+Security+Advocate; Data Analyst" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&width=700&lines=⚡+Lifelong+Learner;🚀+Open+Source+Contributor;💡+Tech+Innovator;🛡️+Cyber+Security+Advocate;📊+Data+Analyst" />
 </p>
 
 ---
