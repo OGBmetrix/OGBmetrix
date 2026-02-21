@@ -15,7 +15,7 @@ I love building secure, efficient solutions and collaborating on open-source pro
 
 ---
 
-### 🛠️ Tech & Tools
+### Tech & Tools
 `Python` • `Pandas` • `NumPy` • `Data Analysis` • `Cyber Security` • `Cloud Computing`  
 `GitHub Actions` • `REST APIs` • `SQL` • `Bubble.io` • `Responsive Web Apps`
 
