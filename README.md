@@ -9,8 +9,8 @@
 </p>
 
 ### About Me
-I’m a passionate **Administrative Specialist, Technical Support and Cyber Security Analyst**,  
-with experience in **data analysis, remote support, and virtual assistance**.  
+**Data/Cyber Security Analyst| AI Specialist 
+Administrative Specialist| Technical Support| Virtual support**
 I love building secure, efficient solutions and collaborating on open-source projects.
 
 ---
