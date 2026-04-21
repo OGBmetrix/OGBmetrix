@@ -1,5 +1,5 @@
 <!-- Profile Header with animated typing and waving hand emoji -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Ikenna+Anthony+Claret+Ogbonna;Administrative+Specialist;Technical+Support+Expert;Cyber+Security+Analyst;Remote+Support+Expert;Data+Analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23FFFFFF&size=30&center=true&vCenter=true&width=800&lines=👋+Hi,+I'm+Ikenna+Anthony+Claret+Ogbonna;Data+Analyst,Administrative+Specialist;Technical+Support+Expert;Cyber+Security+Analyst;Remote+Support+Expert;)](https://git.io/typing-svg)
 
 ---
 
@@ -9,15 +9,14 @@
 </p>
 
 ### About Me
-**Data/Cyber Security Analyst| AI Specialist 
-Administrative Specialist| Technical Support| Virtual support**
-I love building secure, efficient solutions and collaborating on open-source projects.
+**Data Analyst | Data Visualization • SQL • Excel • Power BI • Python | Cybersecurity & AI Interest | Technical Support**
+A results-driven professional skilled at transforming data into actionable insights across data analysis, business development, and cybersecurity.
 
 ---
 
 ### Tech & Tools
-`Python` • `Pandas` • `NumPy` • `Data Analysis` • `Cyber Security` • `Cloud Computing`  
-`GitHub Actions` • `REST APIs` • `SQL` • `Bubble.io` • `Responsive Web Apps`
+`Python` • `Pandas` • `NumPy` • `Power BI` • `Excel` • `Cloud Computing`  
+`GitHub Actions` • `REST APIs` • `SQL` • `Bubble.io` • `Responsive Web Apps` 
 
 ---
 
